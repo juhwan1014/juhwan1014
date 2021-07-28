@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Juhwan Moon
-#### Software Development
+#### I'm a Software Developmer
 ![Software Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm looking for a company to work for based on my years of coding experience.
