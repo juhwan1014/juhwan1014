@@ -6,5 +6,8 @@ I have skilled coding experiences with a Bachelor’s in Mobile Systems Engineer
 
 I'm a team player. So my favorite sport is soccer, and I have experience in various coding team projects. Most recently, I participated in an industry project and upgraded the application under development and distributed it to Testflight.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juhwan1014)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juhwan1014)](https://git.io/streak-stats)
 
+ -->
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhwan1014)](https://github.com/anuraghazra/github-readme-stats)
