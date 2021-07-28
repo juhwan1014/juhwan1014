@@ -8,7 +8,11 @@ I have skilled coding experiences with a Bachelor’s in Mobile Systems Engineer
 
 I'm a team player. So my favorite sport is soccer, and I have experience in various coding team projects. Most recently, I participated in an industry project and upgraded the application under development and distributed it to Testflight.
 
-Skills: REACT / JS / HTML / CSS / REACT NAITVE / GIT / AWS
+### Skills
+⚛️ React
+📱React Native
+🖥 HTML / CSS / JS 
+REACT / JS / HTML / CSS / REACT NAITVE / GIT / AWS
 
 - 🔭 I’m currently working on this page. 
 
