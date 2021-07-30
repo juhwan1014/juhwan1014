@@ -20,7 +20,7 @@ REACT / JS / HTML / CSS / REACT NAITVE / GIT / AWS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/juhwan1014)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juhwan1014/)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhwan1014)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhwan1014&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
