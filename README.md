@@ -8,8 +8,8 @@
 🧐  My area of expertise is to quickly find the cause of the problem and provide the corresponding solution. 🤓<br />
 🖥  Also, I focus on full stack development, especially web application and mobile app development. 📱<br />
 
-🥅 I'm a team player. So my favorite sport is soccer, and I have experience in various coding team projects. 😉<br />
-🧑🏻‍💻 Most recently, I participated in an industry project and upgraded the application under development and distributed it to Testflight. 😎<br />
+🥅  I'm a team player. So my favorite sport is soccer, and I have experience in various coding team projects. 😉<br />
+🧑🏻‍💻  Most recently, I participated in an industry project and upgraded the application under development and distributed it to Testflight. 😎<br />
 
 ### Skills
 
