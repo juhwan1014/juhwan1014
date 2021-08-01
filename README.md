@@ -9,10 +9,8 @@ I have skilled coding experiences with a Bachelor’s in Mobile Systems Engineer
 I'm a team player. So my favorite sport is soccer, and I have experience in various coding team projects. Most recently, I participated in an industry project and upgraded the application under development and distributed it to Testflight.
 
 ### Skills
-⚛️ React
-📱React Native
-🖥 HTML / CSS / JS 
-REACT / JS / HTML / CSS / REACT NAITVE / GIT / AWS
+
+Visual Studio Code / HTML / CSS / Sass / JavaScript / Java / React / Node.js / SQL / AWS / Git / GitHub / REACT NAITVE 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
