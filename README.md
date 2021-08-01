@@ -41,4 +41,4 @@ VS Code / HTML / CSS / Sass / JavaScript / Java / React / Node.js / SQL / AWS / 
 
 
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhwan1014&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhwan1014&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
