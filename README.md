@@ -4,7 +4,7 @@
 
 🌱  I'm looking for a company to work for based on my years of coding experience. 🌱
 
-🔭  I have skilled coding experiences with a Bachelor’s in Mobile Systems Engineering, BCIT Certification in Software System Developer Course. 🔭
+🔭  I have skilled coding experiences with a Bachelor’s in Mobile Systems Engineering, BCIT Certification in Software System Developer. 🔭
 🧐  My area of expertise is to quickly find the cause of the problem and provide the corresponding solution. 🤓
 🖥  Also, I focus on full stack development, especially web application and mobile app development. 📱
 
