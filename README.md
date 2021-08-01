@@ -37,7 +37,7 @@ VS Code / HTML / CSS / Sass / JavaScript / Java / React / Node.js / SQL / AWS / 
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juhwan1014](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juhwan1014)](https://git.io/streak-stats)
 
 
  
